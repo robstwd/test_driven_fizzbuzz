@@ -26,6 +26,7 @@ https://github.com/getify/You-Dont-Know-JS
 
 #### Node
 https://nodejs.org/en/
+
 NPX: https://blog.npmjs.org/post/162869356040/introducing-npx-an-npm-package-runner
 
 
@@ -40,6 +41,7 @@ npm run test -- --coverage --coverageReporters=text \\ print code coverage
 
 #### Jest
 https://jestjs.io/
+
 API: https://jestjs.io/docs/api
 
 #### Gitmoji
